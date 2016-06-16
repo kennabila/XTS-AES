@@ -2,7 +2,7 @@
 
 Program ini merupakan implementasi dari XTS-AES
 AES menggunakan Library javax.crypto
-Authors:			NPM:
+
 Ken Nabila Setya	1306413252
 Rahmi Julianasari	1306381710
 
