@@ -9,6 +9,7 @@ Rahmi Julianasari	1306381710
 
 ======================================================================================================
 Cara menjalakankan program:
+
 1. Run program dengan menggunakan commandline
 	javax *java
 	java AESFrame
